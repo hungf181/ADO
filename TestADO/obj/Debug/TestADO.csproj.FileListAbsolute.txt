@@ -1,0 +1,10 @@
+E:\LT .NET\TestADO\TestADO\bin\Debug\TestADO.exe.config
+E:\LT .NET\TestADO\TestADO\bin\Debug\TestADO.exe
+E:\LT .NET\TestADO\TestADO\bin\Debug\TestADO.pdb
+E:\LT .NET\TestADO\TestADO\obj\Debug\TestADO.csproj.AssemblyReference.cache
+E:\LT .NET\TestADO\TestADO\obj\Debug\TestADO.Form1.resources
+E:\LT .NET\TestADO\TestADO\obj\Debug\TestADO.Properties.Resources.resources
+E:\LT .NET\TestADO\TestADO\obj\Debug\TestADO.csproj.GenerateResource.cache
+E:\LT .NET\TestADO\TestADO\obj\Debug\TestADO.csproj.CoreCompileInputs.cache
+E:\LT .NET\TestADO\TestADO\obj\Debug\TestADO.exe
+E:\LT .NET\TestADO\TestADO\obj\Debug\TestADO.pdb
